@@ -1,4 +1,3 @@
-# N-RainhasAlgoritmoGenetico
 # Problema das N-Rainhas usando Algoritmo Genético
 Resolvendo o Problema das N-Rainha usando Algoritmo Genético
 
