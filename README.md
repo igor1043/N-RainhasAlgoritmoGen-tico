@@ -18,7 +18,7 @@ Python
 
 <p align="center">
  <img src="https://github.com/igor1043/N-RainhasAlgoritmoGen-tico/blob/main/Previa.png" width="500">
-</p>  
-## Autor
+</p> 
 
+## Autor
 * Igor Vincius Freitas de Souza
