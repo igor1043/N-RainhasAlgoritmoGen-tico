@@ -16,6 +16,9 @@ Python
 - Passo 6: Novo cromossomo adicionado à população
 - Repita os passos 2 a 6 até que um cromossomo (solução) com valor de Fitness = Fmax seja encontrado
 
+<p align="center">
+ <img src="https://github.com/igor1043/N-RainhasAlgoritmoGen-tico/blob/main/Previa.png" width="500">
+</p>
 ## Autor
 
 * Igor Vincius Freitas de Souza
