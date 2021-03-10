@@ -1,11 +1,4 @@
-# Problema das N-Rainhas usando Algoritmo Genético
-Resolvendo o Problema das N-Rainha usando Algoritmo Genético
-
-O objetivo do problema das N-Rainhas é colocar N rainhas em um tabuleiro de xadrez N x N, de modo que nenhuma rainha esteja em conflito com as outras.
-
-
-
-### Como o algoritmo genético resolve o problema das n-rainhas?
+# Como o algoritmo genético resolve o problema das n-rainhas?
 - Etapa 1: um cromossomo aleatório é gerado
 - Etapa 2: o valor de adequação do cromossomo é calculado
 - Etapa 3: Se o fitness não for igual a Fmax
